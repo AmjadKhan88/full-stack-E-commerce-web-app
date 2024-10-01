@@ -1,0 +1,22 @@
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: rgb(59 163 138 / 99%) !important;
+}
+
+.dropdown-menu-dark {
+    color: #dee2e6;
+    background-color: #3da48b;
+    border-color: rgba(0, 0, 0, 0.15);
+}
+
+header .right-nav {
+    position: absolute;
+    top: 20px;
+    right: 10px;
+}
+/* .btn-dark {
+    padding: 10px 20px;
+    background-color: #fcf8fd;
+    border-radius: 0px;
+} */
+

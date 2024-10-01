@@ -1,0 +1,8 @@
+.notification {
+    position: absolute; /* Allows positioning based on cursor */
+   
+    border-radius: 30px;
+    padding: 10px;
+    white-space: nowrap; /* Prevent text from wrapping */
+    z-index: 1000; /* Ensure it appears above other content */
+}
