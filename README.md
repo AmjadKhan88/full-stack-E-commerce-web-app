@@ -78,12 +78,14 @@ Install these before running the app:
    git clone https://github.com/AmjadKhan88/full-stack-E-commerce-web-app.git
    cd full-stack-E-commerce-web-app
 
+---
 
-📁 Folder Structure
+## 📁 Folder Structure
 
+```bash
 .
-├── backend/        # Laravel API + server logic
-├── frontend/       # React client app
+├── backend/        # Laravel API & server-side logic
+├── frontend/       # React client application
 ├── README.md
 └── .gitignore
 
