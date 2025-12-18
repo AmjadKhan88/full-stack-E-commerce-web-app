@@ -81,10 +81,12 @@ Install these before running the app:
 
 📁 Folder Structure
 
+.
 ├── backend/        # Laravel API + server logic
 ├── frontend/       # React client app
 ├── README.md
 └── .gitignore
+
 
 🖥️ Backend Setup
     cd backend
